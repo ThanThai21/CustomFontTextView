@@ -21,10 +21,10 @@ You can using your font instead of default font of Android
 	}
 ```
   
-## Step 3. Create new assets folder and fonts directory like this:
+## Step 3. Create new assets folder and fonts directory:
+Like this:
 <br/>
-<br/>
-![alt text](http://i.imgur.com/D3yu0jF.png)
+ ![alt text](http://i.imgur.com/D3yu0jF.png)
 <br/>
 
 ## Step 4. Copy your font into assets/fonts directory. Make sure your font ends with .ttf or .ttc
