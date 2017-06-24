@@ -1,1 +1,1 @@
-include ':app', ':customfonttextview'
+include ':example', ':customfonttextview'
