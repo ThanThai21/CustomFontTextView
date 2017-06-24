@@ -15,11 +15,14 @@ Step1. Add it in your root build.gradle at the end of repositories:
 	}
 ```
 Step 2. Add the dependency
+```
 	dependencies {
 	        compile 'com.github.ThanThai21:CustomFontTextView:1.0.1'
 	}
+```
   
 Step 3. Create new assets folder and fonts directory like this:
+<br/>
 ![alt text](http://i.imgur.com/D3yu0jF.png)
 
 Step 4. Copy your font into assets/fonts directory. Make sure your font ends with .ttf or .ttc
@@ -33,4 +36,4 @@ Usage
         android:text="Custom font"
         android:textSize="30sp"
         app:typefaceAssets="fonts/font.ttf" />
-        ```
+```
